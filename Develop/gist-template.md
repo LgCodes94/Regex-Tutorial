@@ -70,6 +70,8 @@ In regex, look-ahead (?=) checks for patterns ahead, and look-behind (?<=) exami
 Blog created by Luis Garcia
 https://github.com/LgCodes94/Regex-Tutorial
 
+Regex Insight: https://gist.github.com/LgCodes94/51aa723ecd7b0081ee5057ff3c80137d
+
 URL- https://coding-boot-camp.github.io/full-stack/computer-science/regex-tutorial
 
 Date Published: [November 14, 2023]
